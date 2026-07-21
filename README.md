@@ -28,6 +28,8 @@ The project uses the **World Happiness** dataset, which contains information abo
 
 The data was cleaned and prepared before the analysis, including checking for missing values, reviewing data types, and removing unnecessary columns.
 
+**Source:** Kaggle – World Happiness Report Dataset
+
 ---
 
 ## Tools Used
