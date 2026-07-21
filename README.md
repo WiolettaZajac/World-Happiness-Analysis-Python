@@ -6,7 +6,7 @@ Using Pandas, Matplotlib, and Seaborn, I analysed the relationship between happi
 
 ---
 
-## 📊 Visualisations
+## Visualisations
 
 ### Top 10 Happiest Countries
 
