@@ -43,13 +43,6 @@ The data was cleaned and prepared before the analysis, including checking for mi
 
 ---
 
-## Project Files
-
-- `World_Happiness_Analysis.ipynb`
-- `data/world_happiness.xlsx`
-
----
-
 ## Key Findings
 
 Some of the main insights from the analysis include:
