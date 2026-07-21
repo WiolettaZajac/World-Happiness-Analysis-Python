@@ -1,8 +1,7 @@
 # World Happiness Analysis (Python)
 
-This project explores the World Happiness dataset using Python. I created it to practise data cleaning, exploratory data analysis (EDA), and data visualisation while working with a real-world dataset.
-
-Using Pandas, Matplotlib, and Seaborn, I analysed the relationship between happiness scores and factors such as GDP, social support, healthy life expectancy, and freedom to make life choices.
+I created this project to practise using Python to analyse a real-world dataset.
+Using Pandas, Matplotlib and Seaborn, I explored how factors such as GDP, social support and healthy life expectancy relate to happiness scores across different countries.
 
 ---
 
@@ -58,7 +57,8 @@ Some of the main insights from the analysis include:
 
 This project helped me become more confident using Python for data analysis.
 
-The biggest challenge was exploring the relationships between different variables and deciding which charts would communicate the results most clearly. It also gave me more practice using Pandas to clean data and Matplotlib and Seaborn to create visualisations.
+The biggest challenge was exploring the relationships between different variables and choosing the most effective charts to present the results.
+I was surprised by how strongly GDP and social support were related to happiness scores.
 
 By completing this project, I became more comfortable analysing datasets and presenting insights through clear and informative charts.
 
