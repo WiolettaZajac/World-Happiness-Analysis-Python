@@ -10,7 +10,7 @@ Using Pandas, Matplotlib, and Seaborn, I analysed the relationship between happi
 
 ### Top 10 Happiest Countries
 
-![Top 10 Happiest Countries](images/top_10_happiest_countries.png)
+![Top 10 Happiest Countries](images/top10_happiest_countries.png)
 
 ### Correlation Heatmap
 
