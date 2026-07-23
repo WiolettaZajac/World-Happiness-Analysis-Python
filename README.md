@@ -6,25 +6,17 @@ Using Pandas, Matplotlib and Seaborn, I explored how factors such as GDP, social
 ---
 ## Visualisations
 
-### Salary Distribution
+### Top 10 Happiest Countries
 
-![Salary Distribution](screenshots/distribution_of_salaries.png)
+![Top 10 Happiest Countries](images/top10_happiest_countries.png)
 
-### Top 10 NHS Employers
+### Correlation Heatmap
 
-![Top 10 NHS Employers](screenshots/top10_employers.png)
+![Correlation Heatmap](images/correlation_heatmap.png)
 
-### Top 10 NHS Specialties
+### GDP vs Happiness Score
 
-![Top 10 NHS Specialties](screenshots/top10_nhs_specialities.png)
-
-### Top 5 Working Patterns
-
-![Top 5 Working Patterns](screenshots/top5-working-patterns.png)
-
-### Working Patterns
-
-![Working Patterns](screenshots/working_patterns.png)
+![GDP vs Happiness Score](images/gdp_vs_happiness.png)
 
 ---
 
